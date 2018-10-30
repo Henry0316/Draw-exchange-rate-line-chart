@@ -1,2 +1,2 @@
 # HomeWorkDemo
-Draw exchange-rate-chart
+Draw exchange-rate-chart demo
