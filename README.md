@@ -1,4 +1,4 @@
-# Draw exchange-rate-chart
+# Draw exchange-rate chart
 Java post json data to E.SUN BANK and get exchange-rate json data,use data to draw exchange-rate-chart.
 
 # Environment
