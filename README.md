@@ -7,5 +7,5 @@ Java post json data to E.SUN BANK and get exchange-rate json data,use data to dr
 * [java-json](http://www.java2s.com/Code/Jar/j/Downloadjavajsonschemajar.htm)
 
 # Demo pictures + Vedio
-* [video](https://www.youtube.com/watch?v=DtnxYhU6ayw&feature=youtu.be)
+* [video on Youtube](https://www.youtube.com/watch?v=DtnxYhU6ayw&feature=youtu.be)
 * [pic.1](https://imgur.com/cWPkJl8) [pic.2](https://imgur.com/mZQhI4D)
