@@ -1,18 +1,18 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ page import="java.util.*"%>
-
 
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8" />
 <title>匯率DEMO</title>
-<link id="themecss" rel="stylesheet" type="text/css"
-	href="//www.shieldui.com/shared/components/latest/css/light-bootstrap/all.min.css" />
+
+<!-- include line chart -->
+<link id="themecss" rel="stylesheet" type="text/css" href="//www.shieldui.com/shared/components/latest/css/light-bootstrap/all.min.css" />
 <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
-<script type="text/javascript"
-	src="//www.shieldui.com/shared/components/latest/js/shieldui-all.min.js"></script>
+<script type="text/javascript" src="//www.shieldui.com/shared/components/latest/js/shieldui-all.min.js"></script>
+
+<!-- include date selector js and css -->
 <script type="text/javascript" charset="UTF-8" src="js/jscal2.js"></script>
 <script type="text/javascript" charset="UTF-8" src="js/cn.js"></script>
 <link rel="Stylesheet" type="text/css" href="css/jscal2.css" />
